@@ -6,6 +6,7 @@
         android:name="com.google.android.maps.v2.API_KEY"
         android:value="AIzaSyCAASm2SFZSzEURExa8bl0Exgn2kpgrSwk" />
 
+    <uses-permission android:name="android.permission.INTERNET"/>
 
     <application
         android:allowBackup="true"
