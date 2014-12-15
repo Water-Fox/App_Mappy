@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/shiki/GitHub/App_Mappy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/shiki/GitHub/App_Mappy/app/build/intermediates/pre-dexed/debug/classes-c54c91f636532ecb3782f3e106089e235f9925a0.jar" />
+    </item>
+    <item
+        jar="/Users/shiki/GitHub/App_Mappy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="/Users/shiki/GitHub/App_Mappy/app/build/intermediates/pre-dexed/debug/classes-15bef25ebb460f6c1371be9e48b085e0896ed031.jar" />
+    </item>
+    <item
+        jar="/Users/shiki/GitHub/App_Mappy/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/shiki/GitHub/App_Mappy/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-22591654c440a2a83d71e0eb2e7e59f48ba66302.jar" />
+    </item>
+    <item
+        jar="/Users/shiki/GitHub/App_Mappy/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/shiki/GitHub/App_Mappy/app/build/intermediates/pre-dexed/debug/classes-ab94aee5ad67dfd530d2903101d6e5b0372e043b.jar" />
+    </item>
+    <item
+        jar="/Users/shiki/Documents/Android SDK/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/shiki/GitHub/App_Mappy/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-ee90ef60f1479b88a05880bfb3a450fc37953b4b.jar" />
+    </item>
+
+</items>
